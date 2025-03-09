@@ -36,9 +36,10 @@ To install and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/your-project-name.git](https://github.com/Loiiiccc/inventory-api.git)
+   git clone https://github.com/Loiiiccc/inventory-api.git
 
-2.cd [inventory-api.git]
+2. Go to project directory
+    cd [inventory-api.git]
 
 3. Install
 
